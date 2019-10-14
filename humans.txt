@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	random	
+	not so random
+
 
 # THANKS
 
